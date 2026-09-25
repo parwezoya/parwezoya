@@ -29,26 +29,5 @@ Always learning, always building. 🚀
 [![](https://komarev.com/ghpvc/?username=parwezoya&icon=9&color=10)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<div align="center">
-	<h2>📊 My Contribution Activity</h2>
-
-<picture>
-		<source
-			media="(prefers-color-scheme: dark)"
-			srcset="
-				https://raw.githubusercontent.com/parwezoya/viz-pacman-github-profile/output/dist/pacman-contribution-graph-dark.svg
-			"
-		/>
-		<source
-			media="(prefers-color-scheme: light)"
-			srcset="
-				https://raw.githubusercontent.com/parwezoya/viz-pacman-github-profile/output/dist/pacman-contribution-graph-light.svg
-			"
-		/>
-		<img
-			alt="Pacman Contribution Graph"
-			src="https://raw.githubusercontent.com/parwezoya/viz-pacman-github-profile/output/dist/pacman-contribution-graph-light.svg"
-		/>
-	</picture>
-</div>
+![Pac-Man contribution graph](https://raw.githubusercontent.com/parwezoya/pacman-contribution-graph/output/pacman-contribution-graph-dark.svg)
 
